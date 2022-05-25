@@ -200,6 +200,10 @@ Instead of havng a long lisf of variables in main.tf file, we can actually make 
 <img width="278" alt="tree" src="https://user-images.githubusercontent.com/51254648/170223040-2a7cc33d-a813-4871-bb52-e2b596874e79.png">
 
 Run terraform plan and ensure everything works
+<img width="995" alt="terraform-vpc" src="https://user-images.githubusercontent.com/51254648/170317290-1ed0939d-24da-4624-b669-4cb762e38c4a.png">
 
-<img width="466" alt="provider setup" src="https://user-images.githubusercontent.com/51254648/170223170-3eef7731-0910-44b8-969e-f02f4d566206.png">
+
+
+<img width="997" alt="terraform-subnets" src="https://user-images.githubusercontent.com/51254648/170317300-976ee01e-674b-47fc-9522-8be5bc7c0fbb.png">
+
 
