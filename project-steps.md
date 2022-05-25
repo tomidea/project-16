@@ -197,4 +197,9 @@ Instead of havng a long lisf of variables in main.tf file, we can actually make 
 - Create another file, name it terraform.tfvars
 - Set values for each of the variables.
 
-#### Main.tf
+<img width="278" alt="tree" src="https://user-images.githubusercontent.com/51254648/170223040-2a7cc33d-a813-4871-bb52-e2b596874e79.png">
+
+Run terraform plan and ensure everything works
+
+<img width="466" alt="provider setup" src="https://user-images.githubusercontent.com/51254648/170223170-3eef7731-0910-44b8-969e-f02f4d566206.png">
+
